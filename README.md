@@ -7,3 +7,6 @@ The results conducted using different experiment parameters are listed in the te
 1. Experiment Result 1 & 2.txt
 2. Experiment Result 3 & 4.txt
 3. Experiment Result 5 & 6.txt
+
+The result of the other 75 experiment instances mentioned in chapter 3.1.1 is in the text file:
+1. Experiment 1 & 2 (Ver.2).txt
